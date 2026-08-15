@@ -1,0 +1,9 @@
+# Node.js dependencies
+/node_modules
+
+# Environment variables
+# This file contains sensitive information and should not be committed.
+.env
+
+# Log files
+npm-debug.log*
