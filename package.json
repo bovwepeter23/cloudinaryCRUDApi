@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bovwepeter23/cloudinaryApi.git"
+    "url": "git+https://github.com/bovwepeter23/cloudinary-api-server.git"
   },
   "author": "bovwepeter23",
   "license": "ISC",
