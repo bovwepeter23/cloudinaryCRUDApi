@@ -1,7 +1,7 @@
 {
-  "name": "cloudinary-api-server",
+  "name": "cloudinary-crud-api",
   "version": "1.0.0",
-  "description": "A simple Node.js server to securely delete images from Cloudinary.",
+  "description": "A Node.js server for Cloudinary CRUD operations.",
   "main": "api/server.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bovwepeter23/cloudinary-api-server.git"
+    "url": "git+https://github.com/bovwepeter23/cloudinaryCRUDApi.git"
   },
   "author": "bovwepeter23",
   "license": "ISC",
