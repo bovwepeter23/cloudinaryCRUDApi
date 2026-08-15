@@ -1,9 +1,26 @@
 {
+  "name": "cloudinary-api-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server to securely delete images from Cloudinary.",
+  "main": "api/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "nodemon api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bovwepeter23/cloudinaryApi.git"
+  },
+  "author": "bovwepeter23",
+  "license": "ISC",
   "dependencies": {
     "cloudinary": "^2.10.0",
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
   },
-  "type": "module"
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  }
 }
